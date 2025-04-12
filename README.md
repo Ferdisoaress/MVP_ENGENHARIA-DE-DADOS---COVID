@@ -103,6 +103,7 @@ A carga foi realizada nas seguintes camadas do Delta Lake:
 - **Gold**: agregações, junções e criação de tabelas analíticas conforme o modelo estrela.
 
 Todos os dados foram persistidos como tabelas Delta e podem ser reutilizados em notebooks SQL e Python no Databricks.
+- **Tratamento de dados inconsistentes**: exigiu limpezas e conversões, especialmente em colunas numéricas. 
 
 ---
 
@@ -135,4 +136,4 @@ Como sugestões para evolução do projeto:
 •	Utilizar machine learning para prever evolução de casos com base no histórico por país.
 
 
-- **Tratamento de dados inconsistentes**: exigiu limpezas e conversões, especialmente em colunas numéricas. 
+
