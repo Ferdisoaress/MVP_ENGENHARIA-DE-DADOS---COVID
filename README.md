@@ -23,12 +23,11 @@ Desenvolver um MVP de engenharia de dados na nuvem, utilizando o **Databricks**,
 
 ### Perguntas que se deseja responder
 
-1. Como evoluíram os casos e mortes por COVID-19 ao longo do tempo em diferentes países?  
-2. Qual o impacto do avanço da vacinação na redução de casos e mortes por país ou continente?  
-3. Quais países apresentaram a maior velocidade de vacinação e como isso refletiu nos indicadores da pandemia?  
-4. Existe uma defasagem temporal média entre o início da vacinação e a queda nos números de mortes?  
-5. Quais países apresentaram comportamento fora da média (casos/mortes altos mesmo com vacinação avançada)?  
-6. Há países onde os dados de vacinação não coincidem com a queda de casos, indicando outros fatores influenciando?  
+1. Quais são os países com maior número de casos e mortes de COVID-19?  
+2. Quais países aplicaram o maior número absoluto de vacinas?
+3. Qual a taxa de vacinação por habitante em cada país?  
+4. Quais países têm alta mortalidade e baixa vacinação (fora da média)?
+5. Qual fabricante de vacina é o mais utilizado em cada país? 
 
 ---
 
